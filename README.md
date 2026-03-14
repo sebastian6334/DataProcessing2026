@@ -1,3 +1,3 @@
 # DataProcessing2026
 
-Zajęcia Akwizycja Danych UŁ-WFIS II Stopień
+Zajęcia UŁ-WFIS II Stopień
