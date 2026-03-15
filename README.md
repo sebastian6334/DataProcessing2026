@@ -1,3 +1,6 @@
 # DataProcessing2026
 
-Zajęcia UŁ-WFIS II Stopień
+Obróbka danych rozwiazania, zajęcia UŁ-WFIS II Stopień
+
+1.
+2.
