@@ -1,0 +1,16 @@
+id;kod_pocztowy;data_rejestracji;miasto;adres;dochod;wiek
+1;00-001;15.03.2023;Warszawa;ul. Marsza³kowska 1;4523,50;34
+2;90-001;22.07.2022;£ódŸ;ul. Piotrkowska 100;3200,00;28
+3;31-000;01.01.2024;Kraków;"ul. Floriañska 5; lok. 3";brak;45
+4;80-001;12.11.2021;Gdañsk;ul. D³uga 15;5100,75;-
+5;50-001;30.06.2023;Wroc³aw;ul. Œwidnicka 8;2890,00;52
+6;60-001;05.09.2022;Poznañ;ul. Pó³wiejska 22;-;31
+7;90-002;18.02.2024;£ódŸ;"ul. Narutowicza 7; piêtro 2";4200,30;29
+8;40-001;25.05.2023;Katowice;ul. 3 Maja 11;?;38
+9;70-001;10.08.2022;Szczecin;al. Wojska Polskiego 50;3750,00;41
+10;15-001;03.12.2023;Bia³ystok;ul. Lipowa 3;2650,80;brak
+11;00-002;14.04.2024;Warszawa;ul. Nowy Œwiat 21;6800,00;47
+12;90-003;28.10.2021;£ódŸ;"ul. Gdañska 18; mieszkanie 4";3950,45;33
+13;31-001;07.01.2023;Kraków;ul. Grodzka 40;4100,00;26
+14;80-002;19.06.2022;Gdañsk;ul. Mariacka 12;-;55
+15;50-002;22.09.2023;Wroc³aw;pl. Solny 8;5200,60;39
